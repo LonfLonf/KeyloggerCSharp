@@ -1,0 +1,14 @@
+C:\Users\firey\source\repos\Keylogger\Keylogger\bin\Debug\net8.0-windows\Keylogger.exe
+C:\Users\firey\source\repos\Keylogger\Keylogger\bin\Debug\net8.0-windows\Keylogger.deps.json
+C:\Users\firey\source\repos\Keylogger\Keylogger\bin\Debug\net8.0-windows\Keylogger.runtimeconfig.json
+C:\Users\firey\source\repos\Keylogger\Keylogger\bin\Debug\net8.0-windows\Keylogger.dll
+C:\Users\firey\source\repos\Keylogger\Keylogger\bin\Debug\net8.0-windows\Keylogger.pdb
+C:\Users\firey\source\repos\Keylogger\Keylogger\obj\Debug\net8.0-windows\Keylogger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\firey\source\repos\Keylogger\Keylogger\obj\Debug\net8.0-windows\Keylogger.AssemblyInfoInputs.cache
+C:\Users\firey\source\repos\Keylogger\Keylogger\obj\Debug\net8.0-windows\Keylogger.AssemblyInfo.cs
+C:\Users\firey\source\repos\Keylogger\Keylogger\obj\Debug\net8.0-windows\Keylogger.csproj.CoreCompileInputs.cache
+C:\Users\firey\source\repos\Keylogger\Keylogger\obj\Debug\net8.0-windows\Keylogger.dll
+C:\Users\firey\source\repos\Keylogger\Keylogger\obj\Debug\net8.0-windows\refint\Keylogger.dll
+C:\Users\firey\source\repos\Keylogger\Keylogger\obj\Debug\net8.0-windows\Keylogger.pdb
+C:\Users\firey\source\repos\Keylogger\Keylogger\obj\Debug\net8.0-windows\Keylogger.genruntimeconfig.cache
+C:\Users\firey\source\repos\Keylogger\Keylogger\obj\Debug\net8.0-windows\ref\Keylogger.dll

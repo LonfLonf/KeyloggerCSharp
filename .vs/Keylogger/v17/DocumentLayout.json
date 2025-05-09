@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\firey\\source\\repos\\Keylogger\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03662FB5-8C47-4BC4-83F4-749D4D3B4B2D}|Keylogger\\Keylogger.csproj|c:\\users\\firey\\source\\repos\\keylogger\\keylogger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03662FB5-8C47-4BC4-83F4-749D4D3B4B2D}|Keylogger\\Keylogger.csproj|solutionrelative:keylogger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03662FB5-8C47-4BC4-83F4-749D4D3B4B2D}|Keylogger\\Keylogger.csproj|c:\\users\\firey\\source\\repos\\keylogger\\keylogger\\keylogger.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{03662FB5-8C47-4BC4-83F4-749D4D3B4B2D}|Keylogger\\Keylogger.csproj|solutionrelative:keylogger\\keylogger.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Keylogger",
+              "DocumentMoniker": "C:\\Users\\firey\\source\\repos\\Keylogger\\Keylogger\\Keylogger.csproj",
+              "RelativeDocumentMoniker": "Keylogger\\Keylogger.csproj",
+              "ToolTip": "C:\\Users\\firey\\source\\repos\\Keylogger\\Keylogger\\Keylogger.csproj",
+              "RelativeToolTip": "Keylogger\\Keylogger.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-08T22:02:01.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\firey\\source\\repos\\Keylogger\\Keylogger\\Program.cs",
+              "RelativeDocumentMoniker": "Keylogger\\Program.cs",
+              "ToolTip": "C:\\Users\\firey\\source\\repos\\Keylogger\\Keylogger\\Program.cs",
+              "RelativeToolTip": "Keylogger\\Program.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAA2wGsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T22:01:53.438Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
